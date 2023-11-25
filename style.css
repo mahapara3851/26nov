@@ -1,0 +1,21 @@
+h4{
+    background-color: rgb(31, 70, 71);
+    color: white;
+    margin: 0;
+    line-height: 40px;
+    text-align: center;
+    /* font-family: sans-serif; */
+    /* font-style: italic;
+    font-size: larger;
+    font-family: 'Borel', cursive;
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Handjet', sans-serif;
+    font-family: 'Lumanosimo', cursive;
+    font-family: 'Noto Sans Osmanya', sans-serif;
+    font-family: 'Noto Sans Vithkuqi', sans-serif;
+    font-family: 'Vina Sans', sans-serif; */
+*{
+    
+  @import url("https://fonts.googleapis.com/css2?family=Borel&family=Cabin&family=Handjet:wght@600&family=Lumanosimo&family=Noto+Sans+Osmanya&family=Noto+Sans+Vithkuqi&family=Vina+Sans&display=swap");
+
+}
